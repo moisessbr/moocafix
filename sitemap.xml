@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://moocafix.com.br/</loc>
+  <lastmod>2014-05-24T17:36:46+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/index.html</loc>
+  <lastmod>2014-05-24T17:36:46+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos.html</loc>
+  <lastmod>2014-05-24T17:36:50+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-apple.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-gps.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-lg.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-motorola.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-nokia.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-samsung.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-sony.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/servicos-outras.html</loc>
+  <lastmod>2014-05-24T17:36:49+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/como-funciona.html</loc>
+  <lastmod>2014-05-24T17:36:45+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.br/contato.html</loc>
+  <lastmod>2014-05-24T17:36:45+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>100</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.brsistema/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.brsistema/preencher-ordem.php</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://moocafix.com.brsistema/consultar-ordem.php</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
